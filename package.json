@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jkatsnelson/ember-cli-emblem",
   "dependencies": {
-    "broccoli-emblem-compiler": "JoistApp/ember-cli-emblem"
+    "broccoli-emblem-compiler": "JoistApp/broccoli-emblem-compiler"
   }
 }
